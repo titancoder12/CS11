@@ -19,8 +19,8 @@ The materials are selected from:
 
 **Topic covered in [CS50 Week 1](https://cs50.harvard.edu/x/2023/weeks/1/)**
 - [Lab Description](https://cs50.harvard.edu/x/2023/labs/1/)
-- [Assignment Description](https://cs50.harvard.edu/x/2023/psets/1/)
-- [Lab and Assignment Completed](https://github.com/titancoder12/CS50/tree/main/pset1)
+- [Assignment Description](https://cs50.harvard.edu/x/2023/psets/1/mario/less/)
+- [Assignment Completed](https://github.com/titancoder12/CS50/blob/main/pset1/mario/mario.c)
 
 ### 3. Variable Scope
 - local versus global
@@ -35,10 +35,9 @@ The materials are selected from:
 - relational operators (<, >, <=, >=, ==, !=, or <>)
 - logical equivalences (e.g., De Morgan’s laws), simplification of logical statements, truth tables
 
-**Topic covered in [CS50 Week 0](https://cs50.harvard.edu/x/2023/weeks/0/) and [CS50 Week 1](https://cs50.harvard.edu/x/2023/weeks/1/)**
-- [Lab Description](https://cs50.harvard.edu/x/2023/labs/1/)
-- [Assignment Description](https://cs50.harvard.edu/x/2023/psets/1/)
-- [Lab and Assignment Completed](https://github.com/titancoder12/CS50/tree/main/pset1)
+**Topic covered in [CS50 Week 1](https://cs50.harvard.edu/x/2023/weeks/1/)**
+- [Assignment Description](https://cs50.harvard.edu/x/2023/psets/1/cash/)
+- [Assignment Completed](https://github.com/titancoder12/CS50/blob/main/pset1/cash/cash.c)
 
 ### 5. Use of control flow to manipulate program execution
 - decision structures (e.g., if-then-else)
