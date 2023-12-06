@@ -27,8 +27,7 @@ The materials are selected from:
 
 **Topic covered in [CS50 Week 2](https://cs50.harvard.edu/x/2023/weeks/2/)**
 - [Lab Description](https://cs50.harvard.edu/x/2023/labs/2/)
-- [Assignment Description](https://cs50.harvard.edu/x/2023/psets/2/)
-- [Assignment Completed](https://github.com/titancoder12/CS50/tree/main/pset2)
+- [Lab Completed](https://github.com/titancoder12/CS50/blob/main/pset2/lab2/scrabble.c)
 
 ### 4. Ways to construct and evaluate logical statements
 - logical operators (AND, OR, NOT)
@@ -62,9 +61,8 @@ The materials are selected from:
 - searching algorithms (e.g., linear and binary searches)
 
 **Topic covered in [CS50 Week 2](https://cs50.harvard.edu/x/2023/weeks/2/)**
-- [CS50 Week 2 Lab Description](https://cs50.harvard.edu/x/2023/labs/2/)
-- [CS50 Week 2 Assignment Description](https://cs50.harvard.edu/x/2023/psets/2/)
-- [CS50 Week 2 Assignment Completed](https://github.com/titancoder12/CS50/tree/main/pset2)
+- [Assignment Description](https://cs50.harvard.edu/x/2023/psets/2/caesar/)
+- [Assignment Completed](https://github.com/titancoder12/CS50/blob/main/pset2/caesar/caesar.c)
 
 
 ### 8. Problem decomposition through modularity
@@ -72,9 +70,8 @@ The materials are selected from:
 - return values
 
 **Topic covered in [CS50 Week 2](https://cs50.harvard.edu/x/2023/weeks/2/)**
-- [Lab Description](https://cs50.harvard.edu/x/2023/labs/2/)
-- [Assignment Description](https://cs50.harvard.edu/x/2023/psets/2/)
-- [Assignment Completed](https://github.com/titancoder12/CS50/tree/main/pset2)
+- [Assignment Description](https://cs50.harvard.edu/x/2023/psets/2/readability/)
+- [Assignment Completed](https://github.com/titancoder12/CS50/blob/main/pset2/readability/readability.c)
 
 ### 9. Uses of computing for financial analysis
 - time value of money, appreciation/depreciation, mortgage amortization
