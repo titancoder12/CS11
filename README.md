@@ -44,9 +44,9 @@ The materials are selected from:
 - loops (e.g., for, while, nested loops)
 
 **Topic covered in [CS50 Week 1](https://cs50.harvard.edu/x/2023/weeks/1/)**
-- [Lab Description](https://cs50.harvard.edu/x/2023/labs/1/)
-- [Assignment Description](https://cs50.harvard.edu/x/2023/psets/1/)
-- [Lab and Assignment Completed](https://github.com/titancoder12/CS50/tree/main/pset1)
+- [Assignment Description](https://cs50.harvard.edu/x/2023/psets/1/cash/)
+- [Assignment Completed](https://github.com/titancoder12/CS50/blob/main/pset1/cash/cash.c)
+
 
 ### 6. Development of algorithms
 - step-wise refinement, pseudocode or flowcharts, translating between pseudocode and code and vice versa
