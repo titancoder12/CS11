@@ -18,7 +18,6 @@ The materials are selected from:
 - variables, constants, mathematical operations, input/output, generating random numbers
 
 **Topic covered in [CS50 Week 1](https://cs50.harvard.edu/x/2023/weeks/1/)**
-- [Lab Description](https://cs50.harvard.edu/x/2023/labs/1/)
 - [Assignment Description](https://cs50.harvard.edu/x/2023/psets/1/mario/less/)
 - [Assignment Completed](https://github.com/titancoder12/CS50/blob/main/pset1/mario/mario.c)
 
