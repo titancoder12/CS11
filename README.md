@@ -27,6 +27,11 @@ The material is based on:
 ### 3. Variable Scope
 - local versus global
 
+**Topic covered in [CS50 Week 2](https://cs50.harvard.edu/x/2023/weeks/2/)**
+- [Lab Description](https://cs50.harvard.edu/x/2023/labs/2/)
+- [Assignment Description](https://cs50.harvard.edu/x/2023/psets/2/)
+- [Assignment Completed](https://github.com/titancoder12/CS50/tree/main/pset2)
+
 ### 4. Ways to construct and evaluate logical statements
 - logical operators (AND, OR, NOT)
 - relational operators (<, >, <=, >=, ==, !=, or <>)
