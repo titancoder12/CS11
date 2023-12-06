@@ -1,8 +1,8 @@
 # [Computer Science 11](https://curriculum.gov.bc.ca/curriculum/mathematics/11/computer-science) 
 Christopher Lin's work for [BC Curriculum - Computer Science 11](https://curriculum.gov.bc.ca/curriculum/mathematics/11/computer-science).
 
-The material is based on: 
-- Harvard's [CS50 - Introduction to the intellectual enterprises of computer science and the art of programming](https://cs50.harvard.edu/x/2023/)
+The materials are selected from: 
+- Harvard University's [CS50 - Introduction to the intellectual enterprises of computer science and the art of programming](https://cs50.harvard.edu/x/2023/)
 
 
 ## Topics
