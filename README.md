@@ -12,8 +12,7 @@ The materials are selected from:
 
 **Topic covered in [CS50 Week 0](https://cs50.harvard.edu/x/2023/weeks/0/) and [CS50 Week 1](https://cs50.harvard.edu/x/2023/weeks/1/)**
 - [Lab Description](https://cs50.harvard.edu/x/2023/labs/1/)
-- [Assignment Description](https://cs50.harvard.edu/x/2023/psets/1/)
-- [Lab and Assignment Completed](https://github.com/titancoder12/CS50/tree/main/pset1)
+- [Lab Completed](https://github.com/titancoder12/CS50/blob/main/pset1/population/population.c)
 
 ### 2. Basic Programming concepts 
 - variables, constants, mathematical operations, input/output, generating random numbers
