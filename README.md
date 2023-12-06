@@ -4,7 +4,6 @@ Christopher Lin's work for [BC Curriculum - Computer Science 11](https://curricu
 The material is based on: 
 - Harvard's [CS50 - Introduction to the intellectual enterprises of computer science and the art of programming](https://cs50.harvard.edu/x/2023/)
 - Harvard's [CS50AI - Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/ai/2023/)
-- Harvard's [CS50W- Web Programming with Python and JavaScript](https://cs50.harvard.edu/web/2020/)
 
 ## Topics
 ### 1. Ways to represent basic data types
