@@ -49,12 +49,6 @@ The materials are selected from:
 ### 6. Development of algorithms
 - step-wise refinement, pseudocode or flowcharts, translating between pseudocode and code and vice versa
 
-**Topic covered in [CS50 Week 0](https://cs50.harvard.edu/x/2023/weeks/0/) and [CS50 Week 1](https://cs50.harvard.edu/x/2023/weeks/1/)**
-- [Lab Description](https://cs50.harvard.edu/x/2023/labs/1/)
-- [Assignment Description](https://cs50.harvard.edu/x/2023/psets/1/)
-- [Lab and Assignment Completed](https://github.com/titancoder12/CS50/tree/main/pset1)
-
-
 ### 7. Techniques for operations on and searching of arrays and lists
 - append, remove, insert, delete
 - searching algorithms (e.g., linear and binary searches)
