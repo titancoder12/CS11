@@ -75,6 +75,11 @@ The material is based on:
 - use of methods/functions to reduce complexity, reuse code, and use function parameters
 - return values
 
+**Topic covered in [CS50 Week 2](https://cs50.harvard.edu/x/2023/weeks/2/)**
+- [Lab Description](https://cs50.harvard.edu/x/2023/labs/2/)
+- [Assignment Description](https://cs50.harvard.edu/x/2023/psets/2/)
+- [Assignment Completed](https://github.com/titancoder12/CS50/tree/main/pset2)
+
 ### 9. Uses of computing for financial analysis
 - time value of money, appreciation/depreciation, mortgage amortization
 - modify the variables of a financial scenario to run a “what-if” analysis on them (e.g., compare different monthly payments, term lengths, interest rates)
