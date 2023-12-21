@@ -4,7 +4,11 @@ Christopher Lin's work for [BC Curriculum - Computer Science 11](https://curricu
 The materials are selected from: 
 - Harvard University's [CS50 - Introduction to the intellectual enterprises of computer science and the art of programming](https://cs50.harvard.edu/x/2023/)
 
-
+### TODO:
+- Select assignments/problems for each topic
+- More details on description and subtopic if each CS50 Week's material, since not a 1-to-1 map from CS50's modules to CS11 topics.
+- Include other handson projects.
+  
 ## Topics
 ### 1. Ways to represent basic data types
 - number systems (e.g., binary, hexadecimal)
