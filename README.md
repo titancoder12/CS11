@@ -7,12 +7,12 @@ The materials are selected from:
 ### Notes:
 - Being an on-campus college course at Harvard University, each CS50 module covers multiple CS11 topics at greater depth.
 - The ordering of units is based on the ordering of [BC Curriculum]((https://curriculum.gov.bc.ca/curriculum/mathematics/11/computer-science)). However, it is recommended to be taught in the following order:
-  - Unit 1, 2, Test 1
-  - Unit 3, 4, Test 2
-  - Unit 5, 7, Test 3
-  - Unit 6, 8, Test 4
+  - Unit 1, 2, [Test 1](https://github.com/titancoder12/CS11/blob/main/Test1.md)
+  - Unit 3, 4, [Test 2](https://github.com/titancoder12/CS11/blob/main/Test2.md)
+  - Unit 5, 7, [Test 3](https://github.com/titancoder12/CS11/blob/main/Test3.md)
+  - Unit 6, 8, [Test 4](https://github.com/titancoder12/CS11/blob/main/Test4.md)
   - Unit 9
-  - Final Exam    
+  - [Final Exam](https://github.com/titancoder12/CS11/blob/main/FinalExam.md)    
 - Possible **Course Project**:
   - [SWIFT Student Challenge](https://developer.apple.com/swift-student-challenge/) 
   - ICS Science Fair with subject under Computer Science 
