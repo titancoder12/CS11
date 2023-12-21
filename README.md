@@ -6,7 +6,7 @@ The materials are selected from:
 
 ### TODO:
 - Select assignments/problems for each topic
-- More details on description and subtopic if each CS50 Week's material, since not a 1-to-1 map from CS50's modules to CS11 topics.
+- More details on description and subtopic of each CS50 Week's material, since not a 1-to-1 map from CS50's modules to CS11 topics.
 - Include other handson projects.
   
 ## Topics
