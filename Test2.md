@@ -1,4 +1,4 @@
-Test: Computer Science 11 - C Programming
+Test: Computer Science 11 - C Programming, Unit 3, 4
 
 Duration: 1 hour
 
