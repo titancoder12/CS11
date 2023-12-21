@@ -5,7 +5,7 @@ The materials are selected from:
 - Harvard University's [CS50 - Introduction to the intellectual enterprises of computer science and the art of programming](https://cs50.harvard.edu/x/2023/)
 
 ### Notes:
-- Being an on-campus college course at Harvard University, each CS50 module covers multiple CS11 topics.
+- Being an on-campus college course at Harvard University, each CS50 module covers multiple CS11 topics at greater depth.
 - Possible **Course Project**:
   - [SWIFT Student Challenge](https://developer.apple.com/swift-student-challenge/) 
   - ICS Science Fair with subject under Computer Science 
