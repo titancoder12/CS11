@@ -15,6 +15,9 @@ The materials are selected from:
 - [strings, integers, characters, floating point](https://cs50.harvard.edu/x/2023/shorts/data_types/)
 
 **Topic covered in [CS50 Week 0](https://cs50.harvard.edu/x/2023/weeks/0/) and [CS50 Week 1](https://cs50.harvard.edu/x/2023/weeks/1/)**
+#### Assignment:
+- [CS50 Week1 Lab 1](https://cs50.harvard.edu/x/2023/labs/1/)
+- [CS50 Week1 Problem 1 - Mario](https://cs50.harvard.edu/x/2023/psets/1/mario/less/)
 
 
 ### 2. Basic Programming concepts 
