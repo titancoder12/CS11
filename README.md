@@ -37,7 +37,7 @@ The materials are selected from:
 - logical equivalences (e.g., De Morgan’s laws), simplification of logical statements, truth tables
 
 **Topic covered in [CS50 Week 1](https://cs50.harvard.edu/x/2023/weeks/1/)**
-#### Assignment: [CS50 Week 1 Problem Set 1 - Mario](https://cs50.harvard.edu/x/2023/psets/1/mario/less/)
+#### Assignment: [CS50 Week 1 Problem Set 1 - Mario](https://cs50.harvard.edu/x/2023/psets/1/mario/less/) (For topics 3 and 4)
 
 
 
