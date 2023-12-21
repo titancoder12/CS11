@@ -4,11 +4,11 @@ Christopher Lin's work for [BC Curriculum - Computer Science 11](https://curricu
 The materials are selected from: 
 - Harvard University's [CS50 - Introduction to the intellectual enterprises of computer science and the art of programming](https://cs50.harvard.edu/x/2023/)
 
-### TODO:
-- Select assignments/problems for each topic
-- More details on description and subtopic of each CS50 Week's material, since not a 1-to-1 map from CS50's modules to CS11 topics.
-- Include a hands-on and fun **Course Project**, such as [SWIFT Student Challenge](https://developer.apple.com/swift-student-challenge/) or Science Fair
-  - Possibliy using Science Fair to cover subject under Computer Science and use it as a Course Project
+### Notes:
+- Being an on-campus college course at Harvard University, each CS50 module covers multiple CS11 topics.
+- Possible **Course Project**:
+  - [SWIFT Student Challenge](https://developer.apple.com/swift-student-challenge/) 
+  - ICS Science Fair with subject under Computer Science 
   
 ## Topics
 ### 1. Ways to represent basic data types
