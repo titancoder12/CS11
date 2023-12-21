@@ -7,7 +7,7 @@ The materials are selected from:
 ### TODO:
 - Select assignments/problems for each topic
 - More details on description and subtopic of each CS50 Week's material, since not a 1-to-1 map from CS50's modules to CS11 topics.
-- Include other projects, such as [SWIFT Student Challenge](https://developer.apple.com/swift-student-challenge/) or Science Fair
+- Include a hands-on and fun **Course Project**, such as [SWIFT Student Challenge](https://developer.apple.com/swift-student-challenge/) or Science Fair
   
 ## Topics
 ### 1. Ways to represent basic data types
