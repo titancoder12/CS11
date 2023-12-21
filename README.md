@@ -12,7 +12,7 @@ The materials are selected from:
 ## Topics
 ### 1. Ways to represent basic data types
 - number systems (e.g., binary, hexadecimal)
-- strings, integers, characters, floating point
+- [strings, integers, characters, floating point](https://cs50.harvard.edu/x/2023/shorts/data_types/)
 
 **Topic covered in [CS50 Week 0](https://cs50.harvard.edu/x/2023/weeks/0/) and [CS50 Week 1](https://cs50.harvard.edu/x/2023/weeks/1/)**
 
