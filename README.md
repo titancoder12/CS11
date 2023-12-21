@@ -72,6 +72,6 @@ The materials are selected from:
 ### 9. Uses of computing for financial analysis
 - time value of money, appreciation/depreciation, mortgage amortization
 - modify the variables of a financial scenario to run a “what-if” analysis on them (e.g., compare different monthly payments, term lengths, interest rates)
-#### Assignment: Using [Jupyter Notebook on Kaggle](https://www.kaggle.com/code) to create an interactive amortization table
+#### Assignment: Using [Jupyter Notebook on Kaggle](https://www.kaggle.com/code) to create an interactive amortization schedule
 
 
