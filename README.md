@@ -11,6 +11,7 @@ The materials are selected from:
   - Unit 3, 4, Test 2
   - Unit 5, 7, Test 3
   - Unit 6, 8, Test 4
+  - Unit 9
   - Final Exam    
 - Possible **Course Project**:
   - [SWIFT Student Challenge](https://developer.apple.com/swift-student-challenge/) 
