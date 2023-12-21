@@ -10,7 +10,7 @@ The materials are selected from:
   - [SWIFT Student Challenge](https://developer.apple.com/swift-student-challenge/) 
   - ICS Science Fair with subject under Computer Science 
   
-## Topics
+## Units
 ### 1. Ways to represent basic data types
 - [number systems (e.g., binary, hexadecimal)](https://cs50.harvard.edu/x/2023/notes/0/)
 - [strings, integers, characters, floating point](https://cs50.harvard.edu/x/2023/shorts/data_types/)
@@ -23,7 +23,7 @@ The materials are selected from:
 - variables, constants, mathematical operations, input/output, generating random numbers
 
 **Topic covered in [CS50 Week 1](https://cs50.harvard.edu/x/2023/weeks/1/)**
-#### Assignment: [CS50 Week1 Lab 1](https://cs50.harvard.edu/x/2023/labs/1/) (For topics 1 and 2)
+#### Assignment: [CS50 Week1 Lab 1](https://cs50.harvard.edu/x/2023/labs/1/) (For Units 1 and 2)
 
 
 ### 3. Variable Scope
@@ -37,7 +37,7 @@ The materials are selected from:
 - logical equivalences (e.g., De Morgan’s laws), simplification of logical statements, truth tables
 
 **Topic covered in [CS50 Week 1](https://cs50.harvard.edu/x/2023/weeks/1/)**
-#### Assignment: [CS50 Week 1 Problem Set 1 - Mario (more)](https://cs50.harvard.edu/x/2023/psets/1/mario/more/) (For topics 3 and 4)
+#### Assignment: [CS50 Week 1 Problem Set 1 - Mario (more)](https://cs50.harvard.edu/x/2023/psets/1/mario/more/) (For Units 3 and 4)
 
 
 
@@ -67,7 +67,7 @@ The materials are selected from:
 - return values
 
 **Topic covered in [CS50 Week 2](https://cs50.harvard.edu/x/2023/shorts/functions/)**
-#### Assignment: [CS50 Week 3 Problem Set 3 - Plurality](https://cs50.harvard.edu/x/2023/psets/3/plurality/) (For topic 7 and 8)
+#### Assignment: [CS50 Week 3 Problem Set 3 - Plurality](https://cs50.harvard.edu/x/2023/psets/3/plurality/) (For Units 7 and 8)
 
 ### 9. Uses of computing for financial analysis
 - time value of money, appreciation/depreciation, mortgage amortization
