@@ -3,6 +3,7 @@ Christopher Lin's proposed work for [BC Curriculum - Computer Science 11](https:
 
 The materials are selected from: 
 - Harvard University's [CS50 - Introduction to the intellectual enterprises of computer science and the art of programming](https://cs50.harvard.edu/x/2023/)
+- [Descrete Mathematics with Applications by Susanna S. Epp](https://notesack.files.wordpress.com/2017/07/ebooksclub-org__discrete_mathematics_with_applications.pdf)
 
 ### Notes:
 - Being an on-campus college course at Harvard University, each CS50 module covers multiple CS11 topics at greater depth.
