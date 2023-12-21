@@ -61,13 +61,13 @@ The materials are selected from:
 - searching algorithms (e.g., linear and binary searches)
 
 **Topic covered in [CS50 Week 2](https://cs50.harvard.edu/x/2023/weeks/2/) and first part of [CS50 Week 3](https://cs50.harvard.edu/x/2023/weeks/3/)**
-#### Assignment: [CS50 Week 3 Problem Set 3 - Plurality](https://cs50.harvard.edu/x/2023/psets/3/plurality/)
 
 ### 8. Problem decomposition through modularity
 - use of methods/functions to reduce complexity, reuse code, and use function parameters
 - return values
 
 **Topic covered in [CS50 Week 2](https://cs50.harvard.edu/x/2023/shorts/functions/)**
+#### Assignment: [CS50 Week 3 Problem Set 3 - Plurality](https://cs50.harvard.edu/x/2023/psets/3/plurality/) (For topic 7 and 8)
 
 ### 9. Uses of computing for financial analysis
 - time value of money, appreciation/depreciation, mortgage amortization
