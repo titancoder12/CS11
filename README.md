@@ -22,7 +22,7 @@ The materials are selected from:
 ### 3. Variable Scope
 - local versus global
 
-**Topic covered in [CS50 Week 2](https://cs50.harvard.edu/x/2023/weeks/2/)**
+**Topic covered in: TBD**
 
 ### 4. Ways to construct and evaluate logical statements
 - logical operators (AND, OR, NOT)
