@@ -33,6 +33,7 @@ The materials are selected from:
 - logical operators (AND, OR, NOT)
 - relational operators (<, >, <=, >=, ==, !=, or <>)
 - logical equivalences (e.g., De Morgan’s laws), simplification of logical statements, truth tables
+#### Assignment: [CS50 Week 1 Problem Set 1 - Mario](https://cs50.harvard.edu/x/2023/psets/1/mario/less/)
 
 **Topic covered in [CS50 Week 1](https://cs50.harvard.edu/x/2023/weeks/1/)**
 ### 5. Use of control flow to manipulate program execution
