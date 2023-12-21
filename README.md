@@ -6,7 +6,7 @@ The materials are selected from:
 
 ### Notes:
 - Being an on-campus college course at Harvard University, each CS50 module covers multiple CS11 topics at greater depth.
-- The ordering of units is based on the ordering of [BC Curriculum]((https://curriculum.gov.bc.ca/curriculum/mathematics/11/computer-science)). However, it is recommended to be taught in the following order:
+- The ordering of units is based on the ordering of [BC Curriculum]((https://curriculum.gov.bc.ca/curriculum/mathematics/11/computer-science). However, it is recommended to be taught in the following order:
   - Unit 1, 2, [Test 1](https://github.com/titancoder12/CS11/blob/main/Test1.md)
   - Unit 3, 4, [Test 2](https://github.com/titancoder12/CS11/blob/main/Test2.md)
   - Unit 5, 7, [Test 3](https://github.com/titancoder12/CS11/blob/main/Test3.md)
