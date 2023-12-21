@@ -34,16 +34,18 @@ The materials are selected from:
 - logical operators (AND, OR, NOT)
 - relational operators (<, >, <=, >=, ==, !=, or <>)
 - logical equivalences (e.g., De Morgan’s laws), simplification of logical statements, truth tables
+**Topic covered in [CS50 Week 1](https://cs50.harvard.edu/x/2023/weeks/1/)**
 #### Assignment: [CS50 Week 1 Problem Set 1 - Mario](https://cs50.harvard.edu/x/2023/psets/1/mario/less/)
 
-**Topic covered in [CS50 Week 1](https://cs50.harvard.edu/x/2023/weeks/1/)**
+
+
 ### 5. Use of control flow to manipulate program execution
 - decision structures (e.g., if-then-else)
 - loops (e.g., for, while, nested loops)
-
+**Topic covered in [CS50 Week 1](https://cs50.harvard.edu/x/2023/weeks/1/)**
 #### Assignment: [CS50 Week 1 Problem Set 1 - Cash](https://cs50.harvard.edu/x/2023/psets/1/cash/)
 
-**Topic covered in [CS50 Week 1](https://cs50.harvard.edu/x/2023/weeks/1/)**
+
 
 ### 6. Development of algorithms
 - step-wise refinement, pseudocode or flowcharts, translating between pseudocode and code and vice versa
