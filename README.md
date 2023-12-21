@@ -54,6 +54,7 @@ The materials are selected from:
 - step-wise refinement, pseudocode or flowcharts, translating between pseudocode and code and vice versa
 
 **Topic covered in Course Project**
+#### Assignment: **Course Project**
 
 ### 7. Techniques for operations on and searching of arrays and lists
 - append, remove, insert, delete
@@ -70,5 +71,6 @@ The materials are selected from:
 ### 9. Uses of computing for financial analysis
 - time value of money, appreciation/depreciation, mortgage amortization
 - modify the variables of a financial scenario to run a “what-if” analysis on them (e.g., compare different monthly payments, term lengths, interest rates)
+#### Assignment: Using Jupyter Notebook on Kaggle to create an interactive amortization table
 
 
