@@ -36,10 +36,12 @@ The materials are selected from:
 - logical equivalences (e.g., De Morgan’s laws), simplification of logical statements, truth tables
 
 **Topic covered in [CS50 Week 1](https://cs50.harvard.edu/x/2023/weeks/1/)**
-
 ### 5. Use of control flow to manipulate program execution
 - decision structures (e.g., if-then-else)
 - loops (e.g., for, while, nested loops)
+
+#### Assignment:
+- [CS50 Week 1 Problem Set 1 - Cash](https://cs50.harvard.edu/x/2023/psets/1/cash/)
 
 **Topic covered in [CS50 Week 1](https://cs50.harvard.edu/x/2023/weeks/1/)**
 
