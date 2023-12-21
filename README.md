@@ -52,7 +52,7 @@ The materials are selected from:
 - use of methods/functions to reduce complexity, reuse code, and use function parameters
 - return values
 
-**Topic covered in [CS50 Week 2](https://cs50.harvard.edu/x/2023/weeks/2/)**
+**Topic covered in TBD**
 
 ### 9. Uses of computing for financial analysis
 - time value of money, appreciation/depreciation, mortgage amortization
