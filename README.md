@@ -22,7 +22,7 @@ The materials are selected from:
 - variables, constants, mathematical operations, input/output, generating random numbers
 
 **Topic covered in [CS50 Week 1](https://cs50.harvard.edu/x/2023/weeks/1/)**
-#### Assignment: [CS50 Week1 Lab 1](https://cs50.harvard.edu/x/2023/labs/1/)
+#### Assignment: [CS50 Week1 Lab 1](https://cs50.harvard.edu/x/2023/labs/1/) (For topics 1 and 2)
 
 
 ### 3. Variable Scope
