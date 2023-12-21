@@ -8,10 +8,22 @@ The materials are selected from:
 ### Notes:
 - Being an on-campus college course at Harvard University, each CS50 module covers multiple CS11 topics at greater depth.
 - The ordering of units is based on the ordering of [BC Curriculum](https://curriculum.gov.bc.ca/curriculum/mathematics/11/computer-science). However, it is recommended to be taught in the following order:
-  - Unit 1, 2, [Test 1](https://github.com/titancoder12/CS11/blob/main/Test1.md)
-  - Unit 3, 4, [Test 2](https://github.com/titancoder12/CS11/blob/main/Test2.md)
-  - Unit 5, 7, [Test 3](https://github.com/titancoder12/CS11/blob/main/Test3.md)
-  - Unit 6, 8, [Test 4](https://github.com/titancoder12/CS11/blob/main/Test4.md)
+  - Unit 1
+  - Unit 2
+  - Assignment 1
+  - [Test 1](https://github.com/titancoder12/CS11/blob/main/Test1.md)
+  - Unit 3
+  - Unit 4
+  - Assignment 2
+  - [Test 2](https://github.com/titancoder12/CS11/blob/main/Test2.md)
+  - Unit 5
+  - Unit 7
+  - Assignment 3
+  - [Test 3](https://github.com/titancoder12/CS11/blob/main/Test3.md)
+  - Unit 6  **Course Project**
+  - [Test 4](https://github.com/titancoder12/CS11/blob/main/Test4.md)
+  - Unit 8
+  - Assignment 4
   - Unit 9
   - [Final Exam](https://github.com/titancoder12/CS11/blob/main/FinalExam.md)    
 - Possible **Course Project**:
@@ -31,7 +43,7 @@ The materials are selected from:
 - variables, constants, mathematical operations, input/output, generating random numbers
 
 **Topic covered in [CS50 Week 1](https://cs50.harvard.edu/x/2023/weeks/1/)**
-#### Assignment: [CS50 Week1 Lab 1](https://cs50.harvard.edu/x/2023/labs/1/) (For Units 1 and 2)
+#### Assignment 1: [CS50 Week1 Lab 1](https://cs50.harvard.edu/x/2023/labs/1/) (For Units 1 and 2)
 
 
 ### 3. Variable Scope
@@ -45,7 +57,7 @@ The materials are selected from:
 - logical equivalences (e.g., De Morgan’s laws), simplification of logical statements, truth tables
 
 **Topic covered in [CS50 Week 1](https://cs50.harvard.edu/x/2023/weeks/1/)**
-#### Assignment: [CS50 Week 1 Problem Set 1 - Mario (more)](https://cs50.harvard.edu/x/2023/psets/1/mario/more/) (For Units 3 and 4)
+#### Assignment 2: [CS50 Week 1 Problem Set 1 - Mario (more)](https://cs50.harvard.edu/x/2023/psets/1/mario/more/) (For Units 3 and 4)
 
 
 
@@ -54,7 +66,7 @@ The materials are selected from:
 - loops (e.g., for, while, nested loops)
 
 **Topic covered in [CS50 Week 1](https://cs50.harvard.edu/x/2023/weeks/1/)**
-#### Assignment: [CS50 Week 1 Problem Set 1 - Cash](https://cs50.harvard.edu/x/2023/psets/1/cash/)
+#### Assignment 3: [CS50 Week 1 Problem Set 1 - Cash](https://cs50.harvard.edu/x/2023/psets/1/cash/)
 
 
 
@@ -75,7 +87,7 @@ The materials are selected from:
 - return values
 
 **Topic covered in [CS50 Week 2](https://cs50.harvard.edu/x/2023/shorts/functions/)**
-#### Assignment: [CS50 Week 3 Problem Set 3 - Plurality](https://cs50.harvard.edu/x/2023/psets/3/plurality/) (For Units 7 and 8)
+#### Assignment 4: [CS50 Week 3 Problem Set 3 - Plurality](https://cs50.harvard.edu/x/2023/psets/3/plurality/) (For Units 7 and 8)
 
 ### 9. Uses of computing for financial analysis
 - time value of money, appreciation/depreciation, mortgage amortization
