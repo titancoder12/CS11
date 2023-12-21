@@ -44,7 +44,7 @@ The materials are selected from:
 ### 6. Development of algorithms
 - step-wise refinement, pseudocode or flowcharts, translating between pseudocode and code and vice versa
 
-**Topic covered in TBD**
+**Topic covered in [CS50 Week 0](https://cs50.harvard.edu/x/2023/notes/0/)**
 
 ### 7. Techniques for operations on and searching of arrays and lists
 - append, remove, insert, delete
