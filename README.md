@@ -23,7 +23,7 @@ The materials are selected from:
 - [number systems (e.g., binary, hexadecimal)](https://cs50.harvard.edu/x/2023/notes/0/)
 - [strings, integers, characters, floating point](https://cs50.harvard.edu/x/2023/shorts/data_types/)
 
-**Topic covered in [CS50 Week 0](https://cs50.harvard.edu/x/2023/weeks/0/) and [CS50 Week 1](https://cs50.harvard.edu/x/2023/weeks/1/)**
+**Topic covered in [CS50 Week 0](https://cs50.harvard.edu/x/2023/weeks/0/), [CS50 Week 1](https://cs50.harvard.edu/x/2023/weeks/1/), [Discrete Mathematics with Application Chpater 2.5](https://notesack.files.wordpress.com/2017/07/ebooksclub-org__discrete_mathematics_with_applications.pdf)**
 
 
 
