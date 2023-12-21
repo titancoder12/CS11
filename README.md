@@ -50,7 +50,7 @@ The materials are selected from:
 - append, remove, insert, delete
 - searching algorithms (e.g., linear and binary searches)
 
-**Topic covered in [CS50 Week 3](https://cs50.harvard.edu/x/2023/weeks/3/)**
+**Topic covered in [CS50 Week 2](https://cs50.harvard.edu/x/2023/weeks/2/) and [CS50 Week 3](https://cs50.harvard.edu/x/2023/weeks/3/)**
 
 ### 8. Problem decomposition through modularity
 - use of methods/functions to reduce complexity, reuse code, and use function parameters
